@@ -1,3 +1,3 @@
 # js-interview
 
-Assigned by Raj 
+Assigned by Dhiraj Nichani
